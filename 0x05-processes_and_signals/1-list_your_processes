@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# Displays a list of currently running processes.
-#  Showing all processes, for all users...
-# echo abde
+# display all processes (a): user-oriented (u), w/wo TTY (x), show heirachy (f).
+# Made by abde 
 
 ps -auxf
