@@ -1,5 +1,5 @@
 # I love puppet
-# Madee by MEGA
+# Madee by abde
 
 file { '/tmp/school':
   ensure  => file,
