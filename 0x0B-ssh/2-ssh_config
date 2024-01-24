@@ -1,0 +1,5 @@
+# ssh config file
+# Made by ABDE
+Host *
+      PasswordAuthentication no
+      IdentifyFile ~/.ssh/school

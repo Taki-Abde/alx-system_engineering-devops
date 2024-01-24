@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Made by ABDE
+
+ssh ubuntu -i ~/.ssh/school
